@@ -607,7 +607,7 @@
     <string name="rss_source">Fonte de assinatura</string>
     <string name="rss_source_edit">Editar a fonte de assinatura</string>
     <string name="screen">Filtrar</string>
-    <string name="screen_find">Pesquisar as fontes da Descoberta</string>
+    <string name="screen_find">Search Discovery sources</string>
     <string name="dur_pos">Localização atual：</string>
     <string name="precision_search">Busca precisa</string>
     <string name="service_starting">Iniciação do serviço</string>
@@ -1227,4 +1227,5 @@
     <string name="sure_cache_book">是否确认开始缓存？</string>
     <string name="auto_check_new_backup_t">自动检查新备份</string>
     <string name="auto_check_new_backup_s">打开软件时检查是否有新备份，有新备份时提示是否更新</string>
+    <string name="sys_image_picker">系统图片选择器</string>
 </resources>

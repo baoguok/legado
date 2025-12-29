@@ -609,7 +609,7 @@
     <string name="rss_source">订阅源</string>
     <string name="rss_source_edit">编辑订阅源</string>
     <string name="screen">筛选</string>
-    <string name="screen_find">筛选发现</string>
+    <string name="screen_find">筛选发现源</string>
     <string name="dur_pos">当前位置：</string>
     <string name="precision_search">精准搜索</string>
     <string name="service_starting">正在启动服务</string>
@@ -1229,4 +1229,5 @@
     <string name="sure_cache_book">是否确认开始缓存？</string>
     <string name="auto_check_new_backup_t">自动检查新备份</string>
     <string name="auto_check_new_backup_s">打开软件时检查是否有新备份，有新备份时提示是否更新</string>
+    <string name="sys_image_picker">系统图片选择器</string>
 </resources>
